@@ -1,0 +1,6 @@
+print ("##################################################")
+print ("                                                 ")
+print ("Ignacio Avila, Mauricio Quilodran y Franko Bastias")
+print ("                                                 ")
+print ("                 ET 2024                          ") 
+print ("##################################################")
